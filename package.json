@@ -1,0 +1,17 @@
+{
+  "name": "augmented",
+  "version": "1.0.0",
+  "description": "augmeted reality",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "Alpamis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
